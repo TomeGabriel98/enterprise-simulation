@@ -24,7 +24,7 @@
     "chartist": "^0.11.0",
     "connect-history-api-fallback": "^1.6.0",
     "es6-promise": "^4.2.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "vue": "^2.6.10",
     "vue-clickaway": "^2.1.0",
     "vue-notifyjs": "^0.3.0",
